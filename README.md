@@ -1,1 +1,1 @@
-# Automating_tasks_with_python
+# '파이썬 업무자동화(가제)'의 예제 파일 및 코드 저장소입니다.
